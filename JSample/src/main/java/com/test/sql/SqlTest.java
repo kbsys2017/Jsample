@@ -7,7 +7,8 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class SqlTest {
-
+	
+	//Added Commnets
 	public static void main(String[] args) {
 		try {
 			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
